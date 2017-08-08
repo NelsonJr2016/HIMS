@@ -18,8 +18,7 @@ namespace HIMS
             //    } } , Specialization = new List<Specialization>() { new Specialization { PhysicianId = 1, Name = "Optalmologist", Description = "descibe" } }
 
             //}
-
-
+            //added
         };
 
 
