@@ -13,7 +13,7 @@ namespace HIMS
         {
             //Seed data
             new Physician
-            { Id = 1, FirstName = "FirstName", MiddleName = "MiddleName", BirthDate = DateTime.Now, Gender = "M", LastName = "Last Name", Height = 171, Weight=50,
+            { Id = 1, FirstName = "FirstNamee", MiddleName = "MiddleName", BirthDate = DateTime.Now, Gender = "M", LastName = "Last Name", Height = 171, Weight=50,
                 ContactInfo = new List<ContactInfo>() { new ContactInfo { PhysicianId = 1, HomeAddress = "Home", HomePhone = "1234"
                 } } , Specialization = new List<Specialization>() { new Specialization { PhysicianId = 1, Name = "Optalmologist", Description = "descibe" } }
 
