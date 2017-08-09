@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS", "HIMS\HIMS.csproj", "{ABF69444-166E-46A0-A3DC-B7E59AE5442B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Web", "HIMS.Web\HIMS.Web.csproj", "{FE8863B1-A761-45E9-9E7E-297159E9F480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Data", "HIMS.Data\HIMS.Data.csproj", "{102BD173-D5CB-4FB8-BFF6-349053E23C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ABF69444-166E-46A0-A3DC-B7E59AE5442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABF69444-166E-46A0-A3DC-B7E59AE5442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABF69444-166E-46A0-A3DC-B7E59AE5442B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8863B1-A761-45E9-9E7E-297159E9F480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8863B1-A761-45E9-9E7E-297159E9F480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8863B1-A761-45E9-9E7E-297159E9F480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8863B1-A761-45E9-9E7E-297159E9F480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
