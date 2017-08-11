@@ -8,7 +8,7 @@ using System.Data.Entity;
 
 namespace HIMS.Repository
 {
-    public class GenericRepository<TEntity> where TEntity : class
+    public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : class
     {
         #region Private Member Variables
         internal HIMSDataModel _context;
