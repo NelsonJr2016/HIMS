@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Web", "HIMS.Web\HIMS.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Data", "HIMS.Data\HIMS.Data.csproj", "{102BD173-D5CB-4FB8-BFF6-349053E23C58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Repository", "HIMS.Repository\HIMS.Repository.csproj", "{140866B5-7956-4846-9BDA-54740CB5CAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMS.Entity", "HIMS.Entity\HIMS.Entity.csproj", "{2C40BAEC-17F1-4E30-8764-BBA14E2565BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{102BD173-D5CB-4FB8-BFF6-349053E23C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140866B5-7956-4846-9BDA-54740CB5CAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140866B5-7956-4846-9BDA-54740CB5CAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140866B5-7956-4846-9BDA-54740CB5CAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140866B5-7956-4846-9BDA-54740CB5CAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C40BAEC-17F1-4E30-8764-BBA14E2565BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C40BAEC-17F1-4E30-8764-BBA14E2565BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C40BAEC-17F1-4E30-8764-BBA14E2565BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C40BAEC-17F1-4E30-8764-BBA14E2565BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
